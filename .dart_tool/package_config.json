@@ -167,7 +167,7 @@
       "name": "media_kit_libs_android_video",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.10"
     }
   ],
   "generator": "pub",
